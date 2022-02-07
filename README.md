@@ -28,6 +28,8 @@
   - Facial Recognition using FaceNet (MTCNN and InceptionResnetV1)
   - Registration of missing people using a simple front end Flask Implementation
 
+🌟 Amazon Web Services(AWS)  : Jump Box implementation
+  - You can find the implementation [here](https://github.com/princyiakov/develop/tree/master/AWS/JumpBox) 
 <!---
 princyiakov/princyiakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
