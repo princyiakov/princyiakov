@@ -19,14 +19,14 @@
   - LANGUAGE : Python
 
 
-🌟 Drone Programming : Facial Recognition to help recognise registered missing people
+🌟 Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
   - A project close to my heart to help recognise missing children or adults who are reigtered 
   - You can find the code [here](https://github.com/princyiakov/Drone_Face_Recognition)
   - LANGUAGE : Python
+  - DATABASE : PostgreSQL
   - PYTORCH implementation
-  - Facial Regonition using FaceNet (MTCNN and InceptionResnetV1)
+  - Facial Recognition using FaceNet (MTCNN and InceptionResnetV1)
   - Registration of missing people using a simple front end Flask Implementation
-  -  
 
 <!---
 princyiakov/princyiakov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
