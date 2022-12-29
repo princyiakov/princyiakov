@@ -21,6 +21,11 @@
  - LIBRARIES IMPLEMENTED : tensorflow, pandas and giskard
  - MODELS EXPLORED : simple binary classifier
 
+🌟 My contributions for Giskard : House Pricing Regression  
+ - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/House%20pricing%20regression%20model.ipynb) 
+ - LANGUAGE : Python
+ - LIBRARIES IMPLEMENTED : sklearn, pandas, numpy and giskard
+ - MODELS EXPLORED : Random Forest, Catboost
 
 🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
   - A project close to my heart to help recognise missing children or adults who are reigtered 
