@@ -5,10 +5,10 @@
 ## Let me give you a quick tour if you are interested in my projects ! 
 🌟 Giskard Projects : 
 🌟 Sentiment Analysis for twitter Data
-    - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Sentiment_Analysis_for_Twitter_Data.ipynb) 
-    - LANGUAGE : Python
-    - LIBRARIES IMPLEMENTED : transformers, tweepy, datasets, torch and giskard
-    - MODELS EXPLORED : DistillBERT
+   - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Sentiment_Analysis_for_Twitter_Data.ipynb) 
+   - LANGUAGE : Python
+   - LIBRARIES IMPLEMENTED : transformers, tweepy, datasets, torch and giskard
+   - MODELS EXPLORED : DistillBERT
 
 🌟 Email Classification 
     - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Email%20Classification%20Model.ipynb) 
