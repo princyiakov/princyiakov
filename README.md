@@ -12,13 +12,13 @@
 🌟 My NLP contributions for Giskard : Email Classification
  - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Email%20Classification%20Model.ipynb) 
  - LANGUAGE : Python
- - LIBRARIES IMPLEMENTED : torch, nltk, transformers, sklearn
+ - LIBRARIES IMPLEMENTED : torch, nltk, transformers, sklearn and giskard
  - MODELS EXPLORED : Hugging Face BERT, Logistic Regression
 
 🌟 My NLP contributions for Giskard : Text Classificcation using Tensorflow
  - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Text_classification_Using_Tensorflow_Neural_Network.ipynb) 
  - LANGUAGE : Python
- - LIBRARIES IMPLEMENTED : tensorflow, pandas
+ - LIBRARIES IMPLEMENTED : tensorflow, pandas and giskard
  - MODELS EXPLORED : simple binary classifier
 
 
