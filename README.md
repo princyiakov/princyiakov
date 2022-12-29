@@ -3,25 +3,36 @@
 - 📫 You can reach me at iamprincypappachan@gmail.com
 
 ## Let me give you a quick tour if you are interested in my projects ! 
-🌟  My contributions to Giskard : Sentiment Analysis for twitter Data
+🌟  My NLP contributions to Giskard : Sentiment Analysis for twitter Data
    - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Sentiment_Analysis_for_Twitter_Data.ipynb) 
    - LANGUAGE : Python
    - LIBRARIES IMPLEMENTED : transformers, tweepy, datasets, torch and giskard
    - MODELS EXPLORED : DistillBERT
 
-🌟 My contributions to Giskard : Email Classification 
+🌟 My NLP contributions to Giskard : Email Classification
  - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Email%20Classification%20Model.ipynb) 
  - LANGUAGE : Python
  - LIBRARIES IMPLEMENTED : torch, nltk, transformers, sklearn
  - MODELS EXPLORED : Hugging Face BERT, Logistic Regression
 
-🌟 My contributions to Giskard : Text Classificcation using Tensorflow
+🌟 My NLP contributions to Giskard : Text Classificcation using Tensorflow
  - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Text_classification_Using_Tensorflow_Neural_Network.ipynb) 
  - LANGUAGE : Python
  - LIBRARIES IMPLEMENTED : tensorflow, pandas
  - MODELS EXPLORED : simple binary classifier
-    
-🌟 Personal Data Science Project : Credit Card Default project 
+
+
+🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
+  - A project close to my heart to help recognise missing children or adults who are reigtered 
+  - You can find the code [here](https://github.com/princyiakov/Drone_Face_Recognition)
+  - LANGUAGE : Python
+  - DATABASE : PostgreSQL
+  - PYTORCH implementation
+  - Facial Recognition using FaceNet (MTCNN and InceptionResnetV1)
+  - Registration of missing people using a simple front end Flask Implementation
+
+
+🌟 Personal Tabular Data Project : Credit Card Default project 
   - You can find the notebook for the project [here](https://github.com/princyiakov/credit-card-default/blob/main/credit-card-default.ipynb) 
   - LANGUAGE : Python
   - LIBRARIES IMPLEMENTED : sklearn, seaborn, matplotlib, plotly, imblearn
@@ -35,16 +46,7 @@
   - In my first attempt at docker implementation, I reinitiated an existing code of correcting a corrrupted video and packaged into a python library and created a docker image
   - You can find the code [here](https://github.com/princyiakov/videoprocess)
   - LANGUAGE : Python
-
-
-🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
-  - A project close to my heart to help recognise missing children or adults who are reigtered 
-  - You can find the code [here](https://github.com/princyiakov/Drone_Face_Recognition)
-  - LANGUAGE : Python
-  - DATABASE : PostgreSQL
-  - PYTORCH implementation
-  - Facial Recognition using FaceNet (MTCNN and InceptionResnetV1)
-  - Registration of missing people using a simple front end Flask Implementation
+  - 
 
 🌟 Amazon Web Services(AWS)  : Jump Box implementation
   - You can find the implementation [here](https://github.com/princyiakov/develop/tree/master/AWS/JumpBox) 
