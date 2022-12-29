@@ -32,7 +32,7 @@
   - Registration of missing people using a simple front end Flask Implementation
 
 
-🌟 Personal Tabular Data Project : Credit Card Default project 
+🌟 Personal Project - Classification for Tabular Data Project : Credit Card Default project 
   - You can find the notebook for the project [here](https://github.com/princyiakov/credit-card-default/blob/main/credit-card-default.ipynb) 
   - LANGUAGE : Python
   - LIBRARIES IMPLEMENTED : sklearn, seaborn, matplotlib, plotly, imblearn
