@@ -46,7 +46,6 @@
   - In my first attempt at docker implementation, I reinitiated an existing code of correcting a corrrupted video and packaged into a python library and created a docker image
   - You can find the code [here](https://github.com/princyiakov/videoprocess)
   - LANGUAGE : Python
-  - 
 
 🌟 Amazon Web Services(AWS)  : Jump Box implementation
   - You can find the implementation [here](https://github.com/princyiakov/develop/tree/master/AWS/JumpBox) 
