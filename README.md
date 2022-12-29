@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Princy Pappachan Iakov 
 - 👀 I’m interested in Data Science, Deep Learning, Computer Vision, Natural Language Processing  and all things which can bring a positive influence in this world and make life better for every individual ! 
-- 📫 You can reach me at iamprincypappachan@gmail.com
+- 📫 You can reach me at princy.iakov@gmail.com
 
 ## Let me give you a quick tour if you are interested in my projects ! 
 🌟  My NLP contributions to Giskard : Sentiment Analysis for twitter Data
