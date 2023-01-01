@@ -11,7 +11,7 @@
 
 
 🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
-![princy_drone](https://github.com/princyiakov/princyiakov/blob/main/missing_person.gif)
+![missing_person](https://github.com/princyiakov/princyiakov/blob/main/missing_person.gif)
 
 
 ![princy_drone](https://github.com/princyiakov/princyiakov/blob/main/princy_drone.gif)
