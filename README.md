@@ -9,6 +9,19 @@
    - LIBRARIES IMPLEMENTED : transformers, tweepy, datasets, torch and giskard
    - MODELS EXPLORED : DistillBERT
 
+
+🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
+
+![princy_drone](https://github.com/princyiakov/princyiakov/blob/main/princy_drone.gif)
+  - A project close to my heart to help recognise missing children or adults who are reigtered 
+  - You can find the code [here](https://github.com/princyiakov/Drone_Face_Recognition)
+  - LANGUAGE : Python
+  - DATABASE : PostgreSQL
+  - PYTORCH implementation
+  - Facial Recognition using FaceNet (MTCNN and InceptionResnetV1)
+  - Registration of missing people using a simple front end Flask Implementation
+
+
 🌟 My NLP contributions for Giskard : Email Classification
  - You can find the notebook for the project [here](https://github.com/Giskard-AI/giskard-examples/blob/main/Email%20Classification%20Model.ipynb) 
  - LANGUAGE : Python
@@ -26,17 +39,7 @@
  - LANGUAGE : Python
  - LIBRARIES IMPLEMENTED : sklearn, pandas, numpy and giskard
  - MODELS EXPLORED : Random Forest, Catboost
-
-🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people
-![princy_drone](https://github.com/princyiakov/princyiakov/blob/main/princy_drone.gif)
-  - A project close to my heart to help recognise missing children or adults who are reigtered 
-  - You can find the code [here](https://github.com/princyiakov/Drone_Face_Recognition)
-  - LANGUAGE : Python
-  - DATABASE : PostgreSQL
-  - PYTORCH implementation
-  - Facial Recognition using FaceNet (MTCNN and InceptionResnetV1)
-  - Registration of missing people using a simple front end Flask Implementation
-
+ 
 
 🌟 Personal Project - Classification for Tabular Data Project : Credit Card Default project 
   - You can find the notebook for the project [here](https://github.com/princyiakov/credit-card-default/blob/main/credit-card-default.ipynb) 
