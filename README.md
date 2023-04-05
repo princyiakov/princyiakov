@@ -9,7 +9,7 @@
    - LIBRARIES IMPLEMENTED : transformers, tweepy, datasets, torch and giskard
    - MODELS EXPLORED : DistillBERT
 
-Fraud Detection in Blockchain transactions
+🌟 Fraud Detection in Blockchain transactions
    - You can find the notebook for the project [here](https://github.com/princyiakov/fraud_detection_blockchain/tree/main/notebooks) 
    - LANGUAGE : Python
    - LIBRARIES IMPLEMENTED : pandas, seaborn, plotly, matplotlib
