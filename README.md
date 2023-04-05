@@ -9,11 +9,18 @@
    - LIBRARIES IMPLEMENTED : transformers, tweepy, datasets, torch and giskard
    - MODELS EXPLORED : DistillBERT
 
+
+🌟 Chronic Kidney Disease Progression
+   - You can find the project [here](https://github.com/princyiakov/chronic_kidney_disease_progression) 
+   - LANGUAGE : Python
+   - LIBRARIES IMPLEMENTED : lifelines, pandas, seaborn, plotly, matplotlib
+   - MODELS EXPLORED : Random Forest, Logistic Regression 
+   
 🌟 Fraud Detection in Blockchain transactions
    - You can find the notebook for the project [here](https://github.com/princyiakov/fraud_detection_blockchain/tree/main/notebooks) 
    - LANGUAGE : Python
    - LIBRARIES IMPLEMENTED : pandas, seaborn, plotly, matplotlib
-   - MODELS EXPLORED : Random Forest, Logistic Regression 
+   - MODELS EXPLORED : Random Forest, KaplanMeierFitter, KNN, XGBoost, Logistic Regression 
 
 🌟 Personal Drone Programming and Computer Vision : Facial Recognition to help recognise registered missing people and self flying drone
 
