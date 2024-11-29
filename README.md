@@ -7,6 +7,7 @@
    - You can find the notebook for the project [here](https://github.com/princyiakov/dayrize_health_check)
    - LANGUAGE - Python
    - CONTAINERISATION - Docker
+   - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly
 
 
 🌟  My NLP contributions for Giskard : Sentiment Analysis for twitter Data
