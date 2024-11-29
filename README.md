@@ -7,7 +7,7 @@
    - You can find the project [here](https://github.com/princyiakov/dayrize_health_check)
    - LANGUAGE - Python
    - CONTAINERISATION - Docker
-   - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly, 
+   - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly
 
 🌟  Customer Conversion : The bank wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget.
    - You can find the notebook for the project [here](https://github.com/princyiakov/customer_conversion)
