@@ -3,6 +3,10 @@
 - 📫 You can reach me at princy.iakov@gmail.com
 
 ## Let me give you a quick tour if you are interested in my projects ! 
+🌟  Dayrize Health Check : Application to check the health of a file using Python.
+   - You can find the notebook for the project [here](https://github.com/princyiakov/dayrize_health_check)
+   - LANGUAGE - Python
+   - CONTAINERISATION - Docker
 🌟  My NLP contributions for Giskard : Sentiment Analysis for twitter Data
    - You can find the notebook for the project [here](https://github.com/princyiakov/giskard_contrubutions/blob/main/Sentiment_Analysis_for_Twitter_Data.ipynb) 
    - LANGUAGE : Python
