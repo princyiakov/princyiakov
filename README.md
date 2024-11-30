@@ -4,9 +4,9 @@
 
 💡 Let’s connect and explore how we can collaborate to create something extraordinary!
 
+- 🌐 Visit my personal website: [My personal Website](https://princyiakov.github.io/)
 - 📫 Reach me at: princy.iakov@gmail.com
 - 🔗 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/princy-iakov-0b278879/)
-- 🌐 Visit my personal website: [My personal Website](https://princyiakov.github.io/)
 
 ## Let me give you a quick tour if you are interested in my projects ! 
 
