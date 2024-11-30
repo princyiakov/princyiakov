@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Princy Pappachan Iakov 
-- 👀 I’m interested in Data Science, Deep Learning, Computer Vision, Natural Language Processing  and all things which can bring a positive influence in this world and make life better for every individual ! 
-- 📫 You can reach me at princy.iakov@gmail.com
+👋 Hi, I’m Princy Pappachan Iakov!
+
+🌟 Passionate about Data Science, Deep Learning, Computer Vision, and Natural Language Processing, I strive to harness technology for positive impact and to make life better for everyone. I believe in leveraging innovation to drive meaningful change in the world.
+
+💡 Let’s connect and explore how we can collaborate to create something extraordinary!
+
+📫 Reach me at: princy.iakov@gmail.com
+🔗 Connect with me on LinkedIn: [My LinkedIn](https://www.linkedin.com/in/princy-iakov-0b278879/)
+🌐 Visit my personal website: [My personal Website](https://princyiakov.github.io/)
 
 ## Let me give you a quick tour if you are interested in my projects ! 
 
