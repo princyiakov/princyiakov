@@ -8,7 +8,7 @@
 
 ![customer_conversion](https://github.com/princyiakov/customer_conversion/blob/main/resources/attract-customers.png)
 
-   - You can find the notebook for the project [here](https://github.com/princyiakov/customer_conversion)
+   - You can find the project [here](https://github.com/princyiakov/customer_conversion)
    - LANGUAGE - Python
    - CONTAINERISATION - Docker
    - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly, seaborn, matplotlib, flask, sklearn
