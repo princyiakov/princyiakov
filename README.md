@@ -3,11 +3,6 @@
 - 📫 You can reach me at princy.iakov@gmail.com
 
 ## Let me give you a quick tour if you are interested in my projects ! 
-🌟  Dayrize Health Check : Application to check the health of a data shared by user using Python.
-   - You can find the project [here](https://github.com/princyiakov/dayrize_health_check)
-   - LANGUAGE - Python
-   - CONTAINERISATION - Docker
-   - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly
 
 🌟  Customer Conversion : The bank wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget.
 
@@ -17,6 +12,14 @@
    - LANGUAGE - Python
    - CONTAINERISATION - Docker
    - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly, seaborn, matplotlib, flask, sklearn
+
+
+🌟  Dayrize Health Check : Application to check the health of a data shared by user using Python.
+   - You can find the project [here](https://github.com/princyiakov/dayrize_health_check)
+   - LANGUAGE - Python
+   - CONTAINERISATION - Docker
+   - LIBRARIES IMPLEMENTED : pandas, streamlit, plotly
+
 
 
 🌟  My NLP contributions for Giskard : Sentiment Analysis for twitter Data
